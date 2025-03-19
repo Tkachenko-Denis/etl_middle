@@ -48,7 +48,7 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Tkachenko-Denis/python_final
+git clone https://github.com/Tkachenko-Denis/etl_middle
 cd python_final
 ```
 ### Сборка и запуск
